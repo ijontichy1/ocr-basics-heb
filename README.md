@@ -1,1 +1,1 @@
-Notebooks for OCR
+Notebooks for OCR using Tesseract
